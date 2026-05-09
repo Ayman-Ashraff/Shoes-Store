@@ -4,7 +4,7 @@ A simple and clean shoe store landing page built using pure HTML.
 
 ## 🔗 Live Demo
 
-Add your GitHub Pages link here
+https://ayman-ashraff.github.io/Shoes-Store
 
 ## 🛠️ Built With
 
